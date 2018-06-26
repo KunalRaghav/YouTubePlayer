@@ -18,9 +18,11 @@ public class YoutubeActivity extends YouTubeBaseActivity implements YouTubePlaye
     
     //API KEY and other references
     static final String API_KEY="AIzaSyBZNPPhtkJqi7XrhIP-_19BcFQdhZPwAw0";
-    static final String PLAYLIST_ID="PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl";
+    //Meme PlaylistID
+    static final String PLAYLIST_ID="PLC3B0BB09C7C1DC47";
     //static final String VIDEO_ID="DMJEgRH3Dys";
-    static final String VIDEO_ID="X32dce7_D48";
+    // RickRoll VideoID
+    static final String VIDEO_ID="dQw4w9WgXcQ";
 
 
 
